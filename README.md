@@ -5,7 +5,7 @@ This project is an end-to-end business intelligence dashboard built with Microso
 ## 📊 Project Overview
 The dashboard provides a comprehensive view of the cafe's operations, including product popularity, sales trends over time, and operational efficiency across different shifts. It is designed to be interactive, allowing users to filter data by month, day, and payment method using Excel slicers.
 
-![Dashboard Preview]([images/dashboard_preview.png](https://github.com/abdelrhmansami09/costa_cafe/blob/main/image.png))
+![Dashboard Preview]((https://github.com/abdelrhmansami09/costa_cafe/blob/main/image.png))
 
 ## 🚀 Key Features
 - **Interactive Filtering:** Users can dynamically explore data using slicers for months, days, shifts, and payment methods.
